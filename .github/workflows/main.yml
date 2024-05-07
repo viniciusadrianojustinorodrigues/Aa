@@ -50,12 +50,12 @@
     </header>
 
     <div class="container">
-        <p>Este é um exemplo simples de um site utilizando HTML e CSS.</p>
-        <p>Sinta-se à vontade para adicionar mais conteúdo e estilo conforme desejar!</p>
+        <p>Este é um site feito para o trabalho</p>
+        <p>Aqui eu colocaria o conteúdo de pesquisas e coisas sobre algum jogo ou série em específico</p>
     </div>
 
     <footer>
-        <p>&copy; 2024 Meu Site Legal</p>
+        <p>&copy; Meu Site Legal</p>
     </footer>
 </body>
 </html>
